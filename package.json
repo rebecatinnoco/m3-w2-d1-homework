@@ -1,0 +1,22 @@
+{
+  "name": "mongodb_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebecatinnoco/m3-w2-d1-homework.git"
+  },
+  "author": "rt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebecatinnoco/m3-w2-d1-homework/issues"
+  },
+  "homepage": "https://github.com/rebecatinnoco/m3-w2-d1-homework#readme",
+  "dependencies": {
+    "mongodb": "^4.7.0"
+  }
+}
